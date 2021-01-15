@@ -3,7 +3,7 @@
 ### :pencil2: About me: 
 - :mortar_board: I'm an Analysis and Systems Development student at **Universidade Paulista**.
 - :books: I'm currently learning statics and data structures.
-- :pushpin: My goal is to get a job as a backend or frontend.
+- :pushpin: My goal is to get a job as a backend or frontend developer.
 
 ### :speech_balloon: You can contact me at:
 
